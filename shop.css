@@ -1,0 +1,17 @@
+.maincontainer
+{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    width:80%;
+    margin:auto
+}
+.imagediv
+{
+    height:40%;
+    width:100%
+}
+.imagecss
+{
+    height:100%;
+    width:100%
+}

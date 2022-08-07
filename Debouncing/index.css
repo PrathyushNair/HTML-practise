@@ -1,0 +1,26 @@
+.main
+{
+    width:30%;
+    margin:auto;
+    /* border:2px solid red; */
+}
+.main>input{
+    width:99%;
+
+}
+.main>div{
+    display:none;
+    position:absolute;
+    width:30%;
+    height:100px;
+    background-color: white;
+    /* border:2px solid green; */
+    overflow: scroll;
+    overflow-x:hidden;
+    z-index: 100;
+}
+.imagediv
+{
+    border:2px solid green;
+    height:500px;
+}
