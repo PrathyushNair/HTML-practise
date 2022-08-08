@@ -20,7 +20,7 @@
 //     alert("clicked hello")
 // })
 
-///Deboincing starts///
+///Debouncing starts///
 function mapping(arr) {
   document.querySelector(".movielist").innerHTML = "";
     arr.map((el) => {
